@@ -12,4 +12,5 @@ Jumping to the agenda below. I would start thinking of system architecture.It wi
 4. Business Requirements
 
 ##Low Level Design
-First lets talk about low level design. It is categorised as:
+###Functional Requirement
+1. Customer should be able to view the product.
